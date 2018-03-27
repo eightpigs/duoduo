@@ -41,7 +41,7 @@ highlight LineNr guisp=#141414 guifg=#9b9c9a guibg=#141414 gui=NONE ctermfg=249 
 highlight StatusLine guisp=#4d4d4d guifg=#87ceeb guibg=#4d4d4d gui=NONE ctermfg=117 ctermbg=239 cterm=NONE
 highlight Label guisp=NONE guifg=#f5f55d guibg=NONE gui=NONE ctermfg=227 cterm=NONE
 highlight PMenuSel guisp=#a0cf63 guifg=#FFFFFF guibg=#a0cf63 gui=NONE ctermfg=16 ctermbg=149 cterm=NONE
-highlight Search guisp=#ffff45 guifg=#FFFFFF guibg=#ffff45 gui=NONE ctermfg=16 ctermbg=227 cterm=NONE
+highlight Search guisp=#ffff45 guifg=#000000 guibg=#ffff45 gui=NONE ctermfg=16 ctermbg=227 cterm=NONE
 highlight Delimiter guisp=NONE guifg=#ffa500 guibg=NONE gui=NONE ctermfg=214 cterm=NONE
 highlight Statement guisp=NONE guifg=#f5f55d guibg=NONE gui=bold ctermfg=227 cterm=bold
 highlight Comment guisp=NONE guifg=#7cbdd6 guibg=NONE gui=NONE ctermfg=74 cterm=NONE
